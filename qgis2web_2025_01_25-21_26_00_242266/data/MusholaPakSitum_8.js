@@ -1,0 +1,1 @@
+var json_MusholaPakSitum_8 = {"type":"FeatureCollection","name":"MusholaPakSitum_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"6","mushola":"Mushola Pak Situm"},"geometry":{"type":"Point","coordinates":[101.425298083459737,-0.393475402819616]}}]}

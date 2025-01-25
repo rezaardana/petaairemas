@@ -1,0 +1,1 @@
+var json_Lpsepakbolatunggulkulim_19 = {"type":"FeatureCollection","name":"Lpsepakbolatunggulkulim_19","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"18","lp":"Lp sepak bola tunggul kulim"},"geometry":{"type":"Point","coordinates":[101.425487208512379,-0.390518357293967]}}]}

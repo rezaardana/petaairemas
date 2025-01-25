@@ -1,0 +1,1 @@
+var json_LpVoliArbovic_20 = {"type":"FeatureCollection","name":"LpVoliArbovic_20","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"20","lp voli":"Lp Voli Arbovic"},"geometry":{"type":"Point","coordinates":[101.431325362842003,-0.392775887225961]}}]}

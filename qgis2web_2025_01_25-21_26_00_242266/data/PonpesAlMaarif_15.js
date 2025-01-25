@@ -1,0 +1,1 @@
+var json_PonpesAlMaarif_15 = {"type":"FeatureCollection","name":"PonpesAlMaarif_15","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"13","ponpes":"Ponpes Al-Ma'arif"},"geometry":{"type":"Point","coordinates":[101.437806478056316,-0.389638319179763]}}]}

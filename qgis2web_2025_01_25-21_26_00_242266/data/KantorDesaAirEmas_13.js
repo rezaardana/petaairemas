@@ -1,0 +1,1 @@
+var json_KantorDesaAirEmas_13 = {"type":"FeatureCollection","name":"KantorDesaAirEmas_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"11","kantor":"Kantor Desa Air Emas"},"geometry":{"type":"Point","coordinates":[101.431927073238498,-0.391289758554627]}}]}

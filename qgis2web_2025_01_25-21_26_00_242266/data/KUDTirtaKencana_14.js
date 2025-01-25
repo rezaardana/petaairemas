@@ -1,0 +1,1 @@
+var json_KUDTirtaKencana_14 = {"type":"FeatureCollection","name":"KUDTirtaKencana_14","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"12","kud":"KUD Tirta Kencana"},"geometry":{"type":"Point","coordinates":[101.431633031208804,-0.391813153367476]}}]}

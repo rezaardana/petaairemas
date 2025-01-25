@@ -1,0 +1,1 @@
+var json_PasarKamis_17 = {"type":"FeatureCollection","name":"PasarKamis_17","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"16","pasar":"Pasar Kamis"},"geometry":{"type":"Point","coordinates":[101.425264286825438,-0.391071257562218]}}]}

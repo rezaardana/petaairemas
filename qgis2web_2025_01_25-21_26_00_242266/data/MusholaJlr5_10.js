@@ -1,0 +1,1 @@
+var json_MusholaJlr5_10 = {"type":"FeatureCollection","name":"MusholaJlr5_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"8","mushola":"Mushola Jlr 5"},"geometry":{"type":"Point","coordinates":[101.434195585402264,-0.39422120514558]}}]}

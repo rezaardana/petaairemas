@@ -1,0 +1,1 @@
+var json_MusholaPakDirman_9 = {"type":"FeatureCollection","name":"MusholaPakDirman_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"7","mushola":"Mushola Pak Dirman"},"geometry":{"type":"Point","coordinates":[101.42918748268653,-0.388699862119497]}}]}

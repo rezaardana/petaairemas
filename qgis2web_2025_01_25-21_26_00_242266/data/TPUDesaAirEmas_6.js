@@ -1,0 +1,1 @@
+var json_TPUDesaAirEmas_6 = {"type":"FeatureCollection","name":"TPUDesaAirEmas_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"40","tpu":"TPU"},"geometry":{"type":"Point","coordinates":[101.429476234195306,-0.384109244949661]}}]}

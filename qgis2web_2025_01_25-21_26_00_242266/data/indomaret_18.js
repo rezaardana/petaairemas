@@ -1,0 +1,1 @@
+var json_indomaret_18 = {"type":"FeatureCollection","name":"indomaret_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"19","indomaret":"Indomaret"},"geometry":{"type":"Point","coordinates":[101.427764033571975,-0.39109445467588]}}]}

@@ -1,0 +1,1 @@
+var json_MasjidJamiAttaqwa_11 = {"type":"FeatureCollection","name":"MasjidJamiAttaqwa_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"9","masjid":"Masjid Jami' At-taqwa"},"geometry":{"type":"Point","coordinates":[101.433363566564978,-0.390213896465918]}}]}

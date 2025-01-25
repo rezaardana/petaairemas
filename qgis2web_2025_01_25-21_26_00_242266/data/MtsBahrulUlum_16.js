@@ -1,0 +1,1 @@
+var json_MtsBahrulUlum_16 = {"type":"FeatureCollection","name":"MtsBahrulUlum_16","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"14","mts":"Mts Bahrul Ulum"},"geometry":{"type":"Point","coordinates":[101.432624017573104,-0.390350807986594]}}]}
